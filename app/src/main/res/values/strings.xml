@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FastFood</string>
+    <string name="title">¡Encuentra los mejores lugares para comer usando tu ubicación!</string>
+    <string name="name">Nombre del restaurante</string>
+    <string name="number">56</string>
+    <string name="status">Abierto</string>
+    <string name="see_more">Ver más</string>
+    <string name="near">Referencias</string>
+    <string name="direction">Dirección</string>
+    <string name="direction_info">Colonia Presidentes de México</string>
+
+
+
+</resources>
